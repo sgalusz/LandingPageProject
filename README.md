@@ -1,5 +1,5 @@
 # LandingPageProjectt
-This is the landing page project for TOP but will also serve as the start for my lead generation website
+This is the landing page project for TOP 
 
 This is the first major project from "The Odin Project" in the foundations coursework. It utilizes what I have learned about CSS and HTML before heading into the introduction to Javascript.
 
